@@ -10,3 +10,14 @@
 section {
   padding-top: 6rem;
 }
+
+/* remove css line */
+a {
+  text-decoration: none;
+}
+
+/* Change the image in the table to 0 */
+
+td {
+  text-align: center;
+}
